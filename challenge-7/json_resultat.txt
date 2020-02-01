@@ -1,0 +1,2387 @@
+{
+    "api_version": 2,
+    "data": {
+        "current_item_count": 264,
+        "index": 0,
+        "items": [
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "3bb20d810550eef3b4755d2f3d081dfa",
+                "sample_sha256": "86a62326abdb330d2bab6f7998c5bd6496ef70d003084cf37c3ea5badfa45632",
+                "severity": 95,
+                "timestamp": "2018-09-02T14:14:12Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "3bb20d810550eef3b4755d2f3d081dfa",
+                "sample_sha256": "86a62326abdb330d2bab6f7998c5bd6496ef70d003084cf37c3ea5badfa45632",
+                "severity": 95,
+                "timestamp": "2018-09-02T14:14:12Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "3bb20d810550eef3b4755d2f3d081dfa",
+                "sample_sha256": "86a62326abdb330d2bab6f7998c5bd6496ef70d003084cf37c3ea5badfa45632",
+                "severity": 80,
+                "timestamp": "2018-09-02T14:14:12Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "2e5cd59919f30477870935a9aafb5f9d",
+                "sample_sha256": "7f5914fffb970a39eacd38cebf640d2a15040c78948768128be6aa537fea99f5",
+                "severity": 95,
+                "timestamp": "2018-09-02T14:01:42Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "2e5cd59919f30477870935a9aafb5f9d",
+                "sample_sha256": "7f5914fffb970a39eacd38cebf640d2a15040c78948768128be6aa537fea99f5",
+                "severity": 95,
+                "timestamp": "2018-09-02T14:01:42Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "2e5cd59919f30477870935a9aafb5f9d",
+                "sample_sha256": "7f5914fffb970a39eacd38cebf640d2a15040c78948768128be6aa537fea99f5",
+                "severity": 80,
+                "timestamp": "2018-09-02T14:01:42Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f90c12a94201c6fa84423f2b3a576e99",
+                "sample_sha256": "214b9d93966e7a2b502c157365e95dc9a1513a8168c6e3b4e5d0507fae7b3ae4",
+                "severity": 95,
+                "timestamp": "2018-09-02T10:26:49Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f90c12a94201c6fa84423f2b3a576e99",
+                "sample_sha256": "214b9d93966e7a2b502c157365e95dc9a1513a8168c6e3b4e5d0507fae7b3ae4",
+                "severity": 95,
+                "timestamp": "2018-09-02T10:26:49Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f90c12a94201c6fa84423f2b3a576e99",
+                "sample_sha256": "214b9d93966e7a2b502c157365e95dc9a1513a8168c6e3b4e5d0507fae7b3ae4",
+                "severity": 80,
+                "timestamp": "2018-09-02T10:26:49Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "7524ac6832b81555860c2a3db8f31327",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:57:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "7524ac6832b81555860c2a3db8f31327",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:57:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "7524ac6832b81555860c2a3db8f31327",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 80,
+                "timestamp": "2018-09-02T04:57:13Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "8f944949453d8b27d3616d2c4db7e55e",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:52:25Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "8f944949453d8b27d3616d2c4db7e55e",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:52:25Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "8f944949453d8b27d3616d2c4db7e55e",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 80,
+                "timestamp": "2018-09-02T04:52:25Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "e3d0f1541abb6dbb38c2a58dabf75b65",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:47:35Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "e3d0f1541abb6dbb38c2a58dabf75b65",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 80,
+                "timestamp": "2018-09-02T04:47:35Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "db07dd8cae56c792594c352f6732c89f",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:33:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "db07dd8cae56c792594c352f6732c89f",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:33:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "db07dd8cae56c792594c352f6732c89f",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 80,
+                "timestamp": "2018-09-02T04:33:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "9757b51abbaf907c833a7b27e059f536",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 95,
+                "timestamp": "2018-09-02T04:33:01Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "9757b51abbaf907c833a7b27e059f536",
+                "sample_sha256": "3e2f42816e4b653cb86d05d27e53f71e25f4152f4cc2c13357fc184fd98f453b",
+                "severity": 80,
+                "timestamp": "2018-09-02T04:33:01Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "e07476bb6fd04b5e6dc595192b444d81",
+                "sample_sha256": "aecdae67f5482167bc01c9b5684a82fb2f5866ff5731b582b2bef208079a5ea8",
+                "severity": 95,
+                "timestamp": "2018-09-01T21:09:37Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "e07476bb6fd04b5e6dc595192b444d81",
+                "sample_sha256": "aecdae67f5482167bc01c9b5684a82fb2f5866ff5731b582b2bef208079a5ea8",
+                "severity": 95,
+                "timestamp": "2018-09-01T21:09:37Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "e07476bb6fd04b5e6dc595192b444d81",
+                "sample_sha256": "aecdae67f5482167bc01c9b5684a82fb2f5866ff5731b582b2bef208079a5ea8",
+                "severity": 80,
+                "timestamp": "2018-09-01T21:09:37Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "2de58a6d9b5234b6362474893e92a712",
+                "sample_sha256": "bcfdaa7d42823630f2ec0c24aa83fac5a7a1399c992db2d1e96385f389ca25d9",
+                "severity": 95,
+                "timestamp": "2018-09-01T21:07:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "2de58a6d9b5234b6362474893e92a712",
+                "sample_sha256": "bcfdaa7d42823630f2ec0c24aa83fac5a7a1399c992db2d1e96385f389ca25d9",
+                "severity": 95,
+                "timestamp": "2018-09-01T21:07:13Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "2de58a6d9b5234b6362474893e92a712",
+                "sample_sha256": "bcfdaa7d42823630f2ec0c24aa83fac5a7a1399c992db2d1e96385f389ca25d9",
+                "severity": 80,
+                "timestamp": "2018-09-01T21:07:13Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "e698ce9441eec058a239b2018a9a45ed",
+                "sample_sha256": "ae87f5124442c5010794025a85925458c324d3e4adf6a56bd10e6c60cc84c388",
+                "severity": 95,
+                "timestamp": "2018-09-01T09:13:12Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "e698ce9441eec058a239b2018a9a45ed",
+                "sample_sha256": "ae87f5124442c5010794025a85925458c324d3e4adf6a56bd10e6c60cc84c388",
+                "severity": 95,
+                "timestamp": "2018-09-01T09:13:12Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "e698ce9441eec058a239b2018a9a45ed",
+                "sample_sha256": "ae87f5124442c5010794025a85925458c324d3e4adf6a56bd10e6c60cc84c388",
+                "severity": 80,
+                "timestamp": "2018-09-01T09:13:12Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "9d6a739f9a0b79e28add87e4913fa99e",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 95,
+                "timestamp": "2018-09-01T08:04:23Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "9d6a739f9a0b79e28add87e4913fa99e",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 95,
+                "timestamp": "2018-09-01T08:04:23Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "9d6a739f9a0b79e28add87e4913fa99e",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 80,
+                "timestamp": "2018-09-01T08:04:23Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "9866c9759238f8e5052fa0a579736d91",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 95,
+                "timestamp": "2018-09-01T07:52:43Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "9866c9759238f8e5052fa0a579736d91",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 95,
+                "timestamp": "2018-09-01T07:52:43Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "9866c9759238f8e5052fa0a579736d91",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 80,
+                "timestamp": "2018-09-01T07:52:43Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "a08179b34958c4a4bee479d325d15006",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 95,
+                "timestamp": "2018-09-01T07:52:34Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "a08179b34958c4a4bee479d325d15006",
+                "sample_sha256": "32aa22a33331d726c123a2f197ab1661465539084750adbfa1b6f688db5ca64a",
+                "severity": 80,
+                "timestamp": "2018-09-01T07:52:34Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "75299149a92b6849eaa9d63daa5693e2",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:31:23Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "75299149a92b6849eaa9d63daa5693e2",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:31:23Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "42a93b728eb8f3a9b8de413b2e31926d",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:27:36Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "42a93b728eb8f3a9b8de413b2e31926d",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:27:36Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "42a93b728eb8f3a9b8de413b2e31926d",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:27:36Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "6d1d42854dd475912ae6207adb2c5286",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:20:59Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "6d1d42854dd475912ae6207adb2c5286",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:20:59Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "6d1d42854dd475912ae6207adb2c5286",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:20:59Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "329e65fed7fe14415137922e488cfa77",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:19:20Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "329e65fed7fe14415137922e488cfa77",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:19:20Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "329e65fed7fe14415137922e488cfa77",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:19:20Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "61327517b3d988a97a950920119e2846",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:18:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "61327517b3d988a97a950920119e2846",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:18:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "61327517b3d988a97a950920119e2846",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:18:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "b284170ba05f47087c594d5401d4a4a9",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:14:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "b284170ba05f47087c594d5401d4a4a9",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:14:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "bf67481b4a5fc0a6b1948866e5677903",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 95,
+                "timestamp": "2018-09-01T04:09:04Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "bf67481b4a5fc0a6b1948866e5677903",
+                "sample_sha256": "936f4d7410e445ae4f57ca1163473be594c2b09c9bb6324a74d3f184b8391d64",
+                "severity": 80,
+                "timestamp": "2018-09-01T04:09:04Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "fa5c2ee8aaf050af47659a169319b391",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:19:49Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "fa5c2ee8aaf050af47659a169319b391",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:19:49Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "fa5c2ee8aaf050af47659a169319b391",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:19:49Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "dd52587f5717c9e0635fd3a76317428c",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:18:07Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "dd52587f5717c9e0635fd3a76317428c",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:18:07Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "dd52587f5717c9e0635fd3a76317428c",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:18:07Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "2a156f7ace97b9c861b3a1c000bca33b",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:15:42Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "2a156f7ace97b9c861b3a1c000bca33b",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:15:42Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "2a156f7ace97b9c861b3a1c000bca33b",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:15:42Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "7df3e3abc434fe6481973c5249422f07",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:15:21Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "7df3e3abc434fe6481973c5249422f07",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:15:21Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "7df3e3abc434fe6481973c5249422f07",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:15:21Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "c8fe1d6859dfcedd0f73a240bddca0dc",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:14:06Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "c8fe1d6859dfcedd0f73a240bddca0dc",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:14:06Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "c8fe1d6859dfcedd0f73a240bddca0dc",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:14:06Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "920694161c6e006945149bca24db2e14",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:14:06Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "920694161c6e006945149bca24db2e14",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:14:06Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "0bae3d5f63846ab93558eb9913044898",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:13:29Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "0bae3d5f63846ab93558eb9913044898",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:13:29Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "e666ed818066832547692b2798c22b02",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:12:39Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "e666ed818066832547692b2798c22b02",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:12:39Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "6cb84bbd3f2e8233b1039271cd09eada",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:12:05Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "6cb84bbd3f2e8233b1039271cd09eada",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:12:05Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "5a276ac4131fc31e42bab861dc6fad4b",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:11:34Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "5a276ac4131fc31e42bab861dc6fad4b",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:11:34Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "5a276ac4131fc31e42bab861dc6fad4b",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:11:34Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "b261fc5d3b33974e269c9865544965cf",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:09:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "b261fc5d3b33974e269c9865544965cf",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:09:17Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "128c9b1adef57df9b28d9f3e34b31c62",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:05:19Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "128c9b1adef57df9b28d9f3e34b31c62",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:05:19Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "128c9b1adef57df9b28d9f3e34b31c62",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:05:19Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "63e1c5c0d722af2a7ff42898b1e05eee",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:04:03Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "63e1c5c0d722af2a7ff42898b1e05eee",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:04:03Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "26c06c4893ec312ea78b5f59b3990293",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:02:47Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "26c06c4893ec312ea78b5f59b3990293",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:02:47Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "d1dddac470a8c937fe8b10ace0b2dacb",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:02:00Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "d1dddac470a8c937fe8b10ace0b2dacb",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:02:00Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "d1dddac470a8c937fe8b10ace0b2dacb",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:02:00Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "338092960806925f282702db3742a2d6",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:01:36Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "338092960806925f282702db3742a2d6",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:01:36Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "338092960806925f282702db3742a2d6",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:01:36Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f772518224d8fe269c8e6f27cfaeef49",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:00:58Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f772518224d8fe269c8e6f27cfaeef49",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:00:58Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f772518224d8fe269c8e6f27cfaeef49",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:00:58Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "13d2aca61fed4dd0359f4984fa379700",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:00:29Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "13d2aca61fed4dd0359f4984fa379700",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-09-01T00:00:29Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "13d2aca61fed4dd0359f4984fa379700",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-09-01T00:00:29Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "6acb513fe87e017bdb7b8606363fa903",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-08-31T23:55:48Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "6acb513fe87e017bdb7b8606363fa903",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 95,
+                "timestamp": "2018-08-31T23:55:48Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "6acb513fe87e017bdb7b8606363fa903",
+                "sample_sha256": "0570de1daff46b2ef34b86b5bb91ea7f0f7f756802fafa0010b7792e6d07ab15",
+                "severity": 80,
+                "timestamp": "2018-08-31T23:55:48Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "63aee32e561f69012ada4ea91929839d",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-08-31T23:54:49Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "63aee32e561f69012ada4ea91929839d",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 95,
+                "timestamp": "2018-08-31T23:54:49Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "63aee32e561f69012ada4ea91929839d",
+                "sample_sha256": "ced0e21ede8c31aba663c083e6f248d9b046a5dd463da19b8cbb38ba3c5b8ef0",
+                "severity": 80,
+                "timestamp": "2018-08-31T23:54:49Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "87cbbb6fecc5bc4361ca4467ad78c299",
+                "sample_sha256": "438e20050ed9639dfde2d7a45b3d1bb57845151fbfb578b27306d2980b598d7d",
+                "severity": 95,
+                "timestamp": "2018-08-31T18:02:24Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "87cbbb6fecc5bc4361ca4467ad78c299",
+                "sample_sha256": "438e20050ed9639dfde2d7a45b3d1bb57845151fbfb578b27306d2980b598d7d",
+                "severity": 95,
+                "timestamp": "2018-08-31T18:02:24Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "87cbbb6fecc5bc4361ca4467ad78c299",
+                "sample_sha256": "438e20050ed9639dfde2d7a45b3d1bb57845151fbfb578b27306d2980b598d7d",
+                "severity": 80,
+                "timestamp": "2018-08-31T18:02:24Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "c3772c848bc5429161d8e614c07641c7",
+                "sample_sha256": "a5b9fa21954c81cfc5ce94092a5cead5ab1aa6a5f0a6f1fe7083512c1cf5a199",
+                "severity": 95,
+                "timestamp": "2018-08-30T18:02:02Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "c3772c848bc5429161d8e614c07641c7",
+                "sample_sha256": "a5b9fa21954c81cfc5ce94092a5cead5ab1aa6a5f0a6f1fe7083512c1cf5a199",
+                "severity": 95,
+                "timestamp": "2018-08-30T18:02:02Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "c3772c848bc5429161d8e614c07641c7",
+                "sample_sha256": "a5b9fa21954c81cfc5ce94092a5cead5ab1aa6a5f0a6f1fe7083512c1cf5a199",
+                "severity": 80,
+                "timestamp": "2018-08-30T18:02:02Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "e236de716b213cbdbf389e775a72fb10",
+                "sample_sha256": "a5b9fa21954c81cfc5ce94092a5cead5ab1aa6a5f0a6f1fe7083512c1cf5a199",
+                "severity": 95,
+                "timestamp": "2018-08-30T17:49:10Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "e236de716b213cbdbf389e775a72fb10",
+                "sample_sha256": "a5b9fa21954c81cfc5ce94092a5cead5ab1aa6a5f0a6f1fe7083512c1cf5a199",
+                "severity": 95,
+                "timestamp": "2018-08-30T17:49:10Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "e236de716b213cbdbf389e775a72fb10",
+                "sample_sha256": "a5b9fa21954c81cfc5ce94092a5cead5ab1aa6a5f0a6f1fe7083512c1cf5a199",
+                "severity": 80,
+                "timestamp": "2018-08-30T17:49:10Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "831f736bace58c615962eb1f70e1327b",
+                "sample_sha256": "c4d8699b90da03d76597868ca909d9b46710e85faf524c6dcba98938567cabf4",
+                "severity": 95,
+                "timestamp": "2018-08-30T12:17:59Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "831f736bace58c615962eb1f70e1327b",
+                "sample_sha256": "c4d8699b90da03d76597868ca909d9b46710e85faf524c6dcba98938567cabf4",
+                "severity": 95,
+                "timestamp": "2018-08-30T12:17:59Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "831f736bace58c615962eb1f70e1327b",
+                "sample_sha256": "c4d8699b90da03d76597868ca909d9b46710e85faf524c6dcba98938567cabf4",
+                "severity": 80,
+                "timestamp": "2018-08-30T12:17:59Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "1ab7ca61c0d1b99f9258a8ad31dd82e9",
+                "sample_sha256": "ae9d0f4dffaf692e191fb98d1dcd25294b04a205ff0c49b1cf60fbd26963bb82",
+                "severity": 95,
+                "timestamp": "2018-08-30T12:04:56Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "1ab7ca61c0d1b99f9258a8ad31dd82e9",
+                "sample_sha256": "ae9d0f4dffaf692e191fb98d1dcd25294b04a205ff0c49b1cf60fbd26963bb82",
+                "severity": 95,
+                "timestamp": "2018-08-30T12:04:56Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "1ab7ca61c0d1b99f9258a8ad31dd82e9",
+                "sample_sha256": "ae9d0f4dffaf692e191fb98d1dcd25294b04a205ff0c49b1cf60fbd26963bb82",
+                "severity": 80,
+                "timestamp": "2018-08-30T12:04:56Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "2e701b7d23c3c47d4f5cb515e7d28be4",
+                "sample_sha256": "44556d939b5d3f5af022da2d8272a159b26f56d36186b0b0c92293701adc4742",
+                "severity": 95,
+                "timestamp": "2018-08-30T11:58:25Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "2e701b7d23c3c47d4f5cb515e7d28be4",
+                "sample_sha256": "44556d939b5d3f5af022da2d8272a159b26f56d36186b0b0c92293701adc4742",
+                "severity": 95,
+                "timestamp": "2018-08-30T11:58:25Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "2e701b7d23c3c47d4f5cb515e7d28be4",
+                "sample_sha256": "44556d939b5d3f5af022da2d8272a159b26f56d36186b0b0c92293701adc4742",
+                "severity": 80,
+                "timestamp": "2018-08-30T11:58:25Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "5d6ab875cce2e77d74de83ba020016e3",
+                "sample_sha256": "c4d8699b90da03d76597868ca909d9b46710e85faf524c6dcba98938567cabf4",
+                "severity": 95,
+                "timestamp": "2018-08-30T11:57:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "5d6ab875cce2e77d74de83ba020016e3",
+                "sample_sha256": "c4d8699b90da03d76597868ca909d9b46710e85faf524c6dcba98938567cabf4",
+                "severity": 80,
+                "timestamp": "2018-08-30T11:57:22Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "86e85d9ab442d6cc9e5bbf7173c9fd88",
+                "sample_sha256": "ae9d0f4dffaf692e191fb98d1dcd25294b04a205ff0c49b1cf60fbd26963bb82",
+                "severity": 95,
+                "timestamp": "2018-08-30T11:53:46Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "86e85d9ab442d6cc9e5bbf7173c9fd88",
+                "sample_sha256": "ae9d0f4dffaf692e191fb98d1dcd25294b04a205ff0c49b1cf60fbd26963bb82",
+                "severity": 95,
+                "timestamp": "2018-08-30T11:53:46Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "86e85d9ab442d6cc9e5bbf7173c9fd88",
+                "sample_sha256": "ae9d0f4dffaf692e191fb98d1dcd25294b04a205ff0c49b1cf60fbd26963bb82",
+                "severity": 80,
+                "timestamp": "2018-08-30T11:53:46Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "c0d6934e150f2845c2b35cee48e83c82",
+                "sample_sha256": "0da6fdccf576718b4f59b4144ab04895738fca380c20e35e98442be39a0c1c82",
+                "severity": 95,
+                "timestamp": "2018-08-29T18:34:09Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "c0d6934e150f2845c2b35cee48e83c82",
+                "sample_sha256": "0da6fdccf576718b4f59b4144ab04895738fca380c20e35e98442be39a0c1c82",
+                "severity": 95,
+                "timestamp": "2018-08-29T18:34:09Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "c0d6934e150f2845c2b35cee48e83c82",
+                "sample_sha256": "0da6fdccf576718b4f59b4144ab04895738fca380c20e35e98442be39a0c1c82",
+                "severity": 80,
+                "timestamp": "2018-08-29T18:34:09Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "67e1cd66d722e23e79efcf3c2c1ff98e",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 95,
+                "timestamp": "2018-08-27T08:56:57Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "67e1cd66d722e23e79efcf3c2c1ff98e",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 95,
+                "timestamp": "2018-08-27T08:56:57Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "67e1cd66d722e23e79efcf3c2c1ff98e",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 80,
+                "timestamp": "2018-08-27T08:56:57Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "8a3cfafdb5224849cd92c3d95a37015f",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 95,
+                "timestamp": "2018-08-27T08:49:57Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "8a3cfafdb5224849cd92c3d95a37015f",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 95,
+                "timestamp": "2018-08-27T08:49:57Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "8a3cfafdb5224849cd92c3d95a37015f",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 80,
+                "timestamp": "2018-08-27T08:49:57Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "be0140be604999001c8c155a0afa87fe",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 95,
+                "timestamp": "2018-08-27T08:33:33Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "be0140be604999001c8c155a0afa87fe",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 95,
+                "timestamp": "2018-08-27T08:33:33Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "be0140be604999001c8c155a0afa87fe",
+                "sample_sha256": "c271e134199b18b4c0089d02d064d461ed1f023622377421b5f3b46413a09f2e",
+                "severity": 80,
+                "timestamp": "2018-08-27T08:33:33Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "1986c62bdd5925f7820f8c1369ce0ecf",
+                "sample_sha256": "8cc70e8f9dfdc8924e3bcf971098e76ad28d7f6eeabf8b60f5151ccabc2931e7",
+                "severity": 95,
+                "timestamp": "2018-08-21T21:01:40Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "1986c62bdd5925f7820f8c1369ce0ecf",
+                "sample_sha256": "8cc70e8f9dfdc8924e3bcf971098e76ad28d7f6eeabf8b60f5151ccabc2931e7",
+                "severity": 95,
+                "timestamp": "2018-08-21T21:01:40Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "1986c62bdd5925f7820f8c1369ce0ecf",
+                "sample_sha256": "8cc70e8f9dfdc8924e3bcf971098e76ad28d7f6eeabf8b60f5151ccabc2931e7",
+                "severity": 80,
+                "timestamp": "2018-08-21T21:01:40Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "921afc76b58a38df384bb7fab345cf2c",
+                "sample_sha256": "be3e0d61663e4ba92369b410613a000b68892472cccd970232b6a1084846a8d7",
+                "severity": 95,
+                "timestamp": "2018-08-21T18:28:05Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "921afc76b58a38df384bb7fab345cf2c",
+                "sample_sha256": "be3e0d61663e4ba92369b410613a000b68892472cccd970232b6a1084846a8d7",
+                "severity": 95,
+                "timestamp": "2018-08-21T18:28:05Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "921afc76b58a38df384bb7fab345cf2c",
+                "sample_sha256": "be3e0d61663e4ba92369b410613a000b68892472cccd970232b6a1084846a8d7",
+                "severity": 80,
+                "timestamp": "2018-08-21T18:28:05Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "69beeabe9027a0d83360279bac974e66",
+                "sample_sha256": "f90c51479c25f4f58ea46ec821f10791b5311d3505aede2ca579bb75733ba3f9",
+                "severity": 95,
+                "timestamp": "2018-08-21T17:59:15Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "69beeabe9027a0d83360279bac974e66",
+                "sample_sha256": "f90c51479c25f4f58ea46ec821f10791b5311d3505aede2ca579bb75733ba3f9",
+                "severity": 95,
+                "timestamp": "2018-08-21T17:59:15Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "69beeabe9027a0d83360279bac974e66",
+                "sample_sha256": "f90c51479c25f4f58ea46ec821f10791b5311d3505aede2ca579bb75733ba3f9",
+                "severity": 80,
+                "timestamp": "2018-08-21T17:59:15Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "5a6562b35ccd42b0cc3043a8a64069ed",
+                "sample_sha256": "f90c51479c25f4f58ea46ec821f10791b5311d3505aede2ca579bb75733ba3f9",
+                "severity": 95,
+                "timestamp": "2018-08-21T17:47:28Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "5a6562b35ccd42b0cc3043a8a64069ed",
+                "sample_sha256": "f90c51479c25f4f58ea46ec821f10791b5311d3505aede2ca579bb75733ba3f9",
+                "severity": 95,
+                "timestamp": "2018-08-21T17:47:28Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "5a6562b35ccd42b0cc3043a8a64069ed",
+                "sample_sha256": "f90c51479c25f4f58ea46ec821f10791b5311d3505aede2ca579bb75733ba3f9",
+                "severity": 80,
+                "timestamp": "2018-08-21T17:47:28Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "46f9edaffde59fd923a08b5ed225cc0e",
+                "sample_sha256": "6f4cab8f864a192be388312a2c6b79a12d236ba05b42ec6aee4a6c5a77f8e19f",
+                "severity": 95,
+                "timestamp": "2018-08-21T17:17:48Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "46f9edaffde59fd923a08b5ed225cc0e",
+                "sample_sha256": "6f4cab8f864a192be388312a2c6b79a12d236ba05b42ec6aee4a6c5a77f8e19f",
+                "severity": 95,
+                "timestamp": "2018-08-21T17:17:48Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "46f9edaffde59fd923a08b5ed225cc0e",
+                "sample_sha256": "6f4cab8f864a192be388312a2c6b79a12d236ba05b42ec6aee4a6c5a77f8e19f",
+                "severity": 80,
+                "timestamp": "2018-08-21T17:17:48Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "aec248dcc6cb0f88806bdcb33fbef748",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T08:16:55Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "aec248dcc6cb0f88806bdcb33fbef748",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T08:16:55Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "aec248dcc6cb0f88806bdcb33fbef748",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 80,
+                "timestamp": "2018-08-19T08:16:55Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "ca0e2249a5c52e6149b68d8adbcd97dd",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T08:06:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "ca0e2249a5c52e6149b68d8adbcd97dd",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T08:06:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "ca0e2249a5c52e6149b68d8adbcd97dd",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 80,
+                "timestamp": "2018-08-19T08:06:22Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "cb9c65c96d75556774fe35ee78f7c078",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T08:00:40Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "cb9c65c96d75556774fe35ee78f7c078",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T08:00:40Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "cb9c65c96d75556774fe35ee78f7c078",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 80,
+                "timestamp": "2018-08-19T08:00:40Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "3314bd355bb214ccf1282608266e0511",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T07:58:39Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "3314bd355bb214ccf1282608266e0511",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T07:58:39Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "3314bd355bb214ccf1282608266e0511",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 80,
+                "timestamp": "2018-08-19T07:58:39Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f1bb069bb2f5be122738c5247be19ad1",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T07:56:08Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f1bb069bb2f5be122738c5247be19ad1",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 95,
+                "timestamp": "2018-08-19T07:56:08Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f1bb069bb2f5be122738c5247be19ad1",
+                "sample_sha256": "97e7d1011fdc2683d0262b0a6eb1dc07ec82838c206cbf0d3ee801757248306c",
+                "severity": 80,
+                "timestamp": "2018-08-19T07:56:08Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "76a03e8b507615fe1408e87c5db0330e",
+                "sample_sha256": "7050cc45a3280509af1ab159e9729ddbfb7e001e45a84a78a216935b77102b52",
+                "severity": 95,
+                "timestamp": "2018-08-17T21:37:56Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "76a03e8b507615fe1408e87c5db0330e",
+                "sample_sha256": "7050cc45a3280509af1ab159e9729ddbfb7e001e45a84a78a216935b77102b52",
+                "severity": 95,
+                "timestamp": "2018-08-17T21:37:56Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "76a03e8b507615fe1408e87c5db0330e",
+                "sample_sha256": "7050cc45a3280509af1ab159e9729ddbfb7e001e45a84a78a216935b77102b52",
+                "severity": 80,
+                "timestamp": "2018-08-17T21:37:56Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "d51939a97be62957598db6e46358e09a",
+                "sample_sha256": "fc5ece70095165465ce11dbe8d9c701e73fedf4c9bf53ec19c61a95b15b60658",
+                "severity": 95,
+                "timestamp": "2018-08-17T21:03:46Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "d51939a97be62957598db6e46358e09a",
+                "sample_sha256": "fc5ece70095165465ce11dbe8d9c701e73fedf4c9bf53ec19c61a95b15b60658",
+                "severity": 95,
+                "timestamp": "2018-08-17T21:03:46Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "d51939a97be62957598db6e46358e09a",
+                "sample_sha256": "fc5ece70095165465ce11dbe8d9c701e73fedf4c9bf53ec19c61a95b15b60658",
+                "severity": 80,
+                "timestamp": "2018-08-17T21:03:46Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "0e2fd390b3e898aaac9edeb6a2777e1d",
+                "sample_sha256": "485589981657626c29afd734e9b81e045f01d9bc5e545a81745b824b9a12c027",
+                "severity": 95,
+                "timestamp": "2018-08-17T20:48:40Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "0e2fd390b3e898aaac9edeb6a2777e1d",
+                "sample_sha256": "485589981657626c29afd734e9b81e045f01d9bc5e545a81745b824b9a12c027",
+                "severity": 95,
+                "timestamp": "2018-08-17T20:48:40Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "0e2fd390b3e898aaac9edeb6a2777e1d",
+                "sample_sha256": "485589981657626c29afd734e9b81e045f01d9bc5e545a81745b824b9a12c027",
+                "severity": 80,
+                "timestamp": "2018-08-17T20:48:40Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f94c118ae0136597e7bfde7b159534be",
+                "sample_sha256": "f6f86fe8be52003c1bdf6ea30e056d217ba6b72f264e30a4e5bd375781b07ea7",
+                "severity": 95,
+                "timestamp": "2018-08-14T07:27:33Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f94c118ae0136597e7bfde7b159534be",
+                "sample_sha256": "f6f86fe8be52003c1bdf6ea30e056d217ba6b72f264e30a4e5bd375781b07ea7",
+                "severity": 95,
+                "timestamp": "2018-08-14T07:27:33Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f94c118ae0136597e7bfde7b159534be",
+                "sample_sha256": "f6f86fe8be52003c1bdf6ea30e056d217ba6b72f264e30a4e5bd375781b07ea7",
+                "severity": 80,
+                "timestamp": "2018-08-14T07:27:33Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "62dfc005ae3d076ee2486325465d2f51",
+                "sample_sha256": "f6f86fe8be52003c1bdf6ea30e056d217ba6b72f264e30a4e5bd375781b07ea7",
+                "severity": 95,
+                "timestamp": "2018-08-14T07:19:37Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "62dfc005ae3d076ee2486325465d2f51",
+                "sample_sha256": "f6f86fe8be52003c1bdf6ea30e056d217ba6b72f264e30a4e5bd375781b07ea7",
+                "severity": 95,
+                "timestamp": "2018-08-14T07:19:37Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "62dfc005ae3d076ee2486325465d2f51",
+                "sample_sha256": "f6f86fe8be52003c1bdf6ea30e056d217ba6b72f264e30a4e5bd375781b07ea7",
+                "severity": 80,
+                "timestamp": "2018-08-14T07:19:37Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "ad408455efc6d04213e8b1b25a9f0d84",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:07:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "ad408455efc6d04213e8b1b25a9f0d84",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:07:22Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "ad408455efc6d04213e8b1b25a9f0d84",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 80,
+                "timestamp": "2018-08-14T04:07:22Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "a36752fb7c06058e55d25d9209e32888",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:05:45Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "a36752fb7c06058e55d25d9209e32888",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:05:45Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "a36752fb7c06058e55d25d9209e32888",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 80,
+                "timestamp": "2018-08-14T04:05:45Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "4c9b9f6d7998424b225679e25df3250f",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:05:41Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "4c9b9f6d7998424b225679e25df3250f",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:05:41Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "4c9b9f6d7998424b225679e25df3250f",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 80,
+                "timestamp": "2018-08-14T04:05:41Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f0ed9119b2b8a4dfcfcf7faa26750f15",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:01:23Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f0ed9119b2b8a4dfcfcf7faa26750f15",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 95,
+                "timestamp": "2018-08-14T04:01:23Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f0ed9119b2b8a4dfcfcf7faa26750f15",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 80,
+                "timestamp": "2018-08-14T04:01:23Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "37ba070ecdcc00f5b3cb073e8a1a4065",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:58:27Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "37ba070ecdcc00f5b3cb073e8a1a4065",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:58:27Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "37ba070ecdcc00f5b3cb073e8a1a4065",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:58:27Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "2376f63454e273b5efea2a4999176774",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:58:26Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "2376f63454e273b5efea2a4999176774",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:58:26Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "2376f63454e273b5efea2a4999176774",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:58:26Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "19dbfb9bf4612d97fcf870263b8539bf",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:52:52Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "19dbfb9bf4612d97fcf870263b8539bf",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:52:52Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "19dbfb9bf4612d97fcf870263b8539bf",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:52:52Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "96a3a1e34b3e294d09290dd41996f1f6",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:51:08Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "96a3a1e34b3e294d09290dd41996f1f6",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:51:08Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "96a3a1e34b3e294d09290dd41996f1f6",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:51:08Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "b736e393861f04b232f1c00cf0259775",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:49:58Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "b736e393861f04b232f1c00cf0259775",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:49:58Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "b736e393861f04b232f1c00cf0259775",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:49:58Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "2d4a4ef29385fe8be2b2883ee03356fe",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:48:32Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "2d4a4ef29385fe8be2b2883ee03356fe",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:48:32Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "2d4a4ef29385fe8be2b2883ee03356fe",
+                "sample_sha256": "4126b64f208c7a7841f5a5cdc8091e054a4d714ef2ccfd519e5ce46e01c3179f",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:48:32Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "7b2b047e03c275cabfae59c8eb38e021",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:44:53Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "7b2b047e03c275cabfae59c8eb38e021",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:44:53Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "7b2b047e03c275cabfae59c8eb38e021",
+                "sample_sha256": "0ba543edb8d81e7e3795ea0ba4d1e71381d227a452384db2ea2550992d74ca8e",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:44:53Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "5960527ee86301296024e0454c6c24ca",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:40:52Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "5960527ee86301296024e0454c6c24ca",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 95,
+                "timestamp": "2018-08-14T03:40:52Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "5960527ee86301296024e0454c6c24ca",
+                "sample_sha256": "b8cccb6154f35cd01f19ce6a23d284d4353fd1066f6d11ef3ef725f3258340ed",
+                "severity": 80,
+                "timestamp": "2018-08-14T03:40:52Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "6c855779ac2c4b747026408384d31986",
+                "sample_sha256": "c7ce84d0aa27dda02bc518c784e4f0f5a8e64c470c4a7e38259941bb6b76258e",
+                "severity": 95,
+                "timestamp": "2018-08-13T18:19:21Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "6c855779ac2c4b747026408384d31986",
+                "sample_sha256": "c7ce84d0aa27dda02bc518c784e4f0f5a8e64c470c4a7e38259941bb6b76258e",
+                "severity": 95,
+                "timestamp": "2018-08-13T18:19:21Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "6c855779ac2c4b747026408384d31986",
+                "sample_sha256": "c7ce84d0aa27dda02bc518c784e4f0f5a8e64c470c4a7e38259941bb6b76258e",
+                "severity": 80,
+                "timestamp": "2018-08-13T18:19:21Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "aaffc4b73ba70bd967ff47177ab053de",
+                "sample_sha256": "c7ce84d0aa27dda02bc518c784e4f0f5a8e64c470c4a7e38259941bb6b76258e",
+                "severity": 95,
+                "timestamp": "2018-08-13T18:04:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "aaffc4b73ba70bd967ff47177ab053de",
+                "sample_sha256": "c7ce84d0aa27dda02bc518c784e4f0f5a8e64c470c4a7e38259941bb6b76258e",
+                "severity": 95,
+                "timestamp": "2018-08-13T18:04:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "aaffc4b73ba70bd967ff47177ab053de",
+                "sample_sha256": "c7ce84d0aa27dda02bc518c784e4f0f5a8e64c470c4a7e38259941bb6b76258e",
+                "severity": 80,
+                "timestamp": "2018-08-13T18:04:17Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "cc1f0e3a50e7cf2256b8c59aa1f2c26f",
+                "sample_sha256": "b89851b6824002d610c37685146828a9038566447c4c814577e7fcf98ae674aa",
+                "severity": 95,
+                "timestamp": "2018-08-13T11:59:31Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "cc1f0e3a50e7cf2256b8c59aa1f2c26f",
+                "sample_sha256": "b89851b6824002d610c37685146828a9038566447c4c814577e7fcf98ae674aa",
+                "severity": 95,
+                "timestamp": "2018-08-13T11:59:31Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "cc1f0e3a50e7cf2256b8c59aa1f2c26f",
+                "sample_sha256": "b89851b6824002d610c37685146828a9038566447c4c814577e7fcf98ae674aa",
+                "severity": 80,
+                "timestamp": "2018-08-13T11:59:31Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "97b77d29d43698c6b1b3ce9d698343e2",
+                "sample_sha256": "edd72c6f340a847aa19ef582c90cfebac5c5b545e82e1b51a85bda2ee61d2df1",
+                "severity": 95,
+                "timestamp": "2018-08-11T11:57:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "97b77d29d43698c6b1b3ce9d698343e2",
+                "sample_sha256": "edd72c6f340a847aa19ef582c90cfebac5c5b545e82e1b51a85bda2ee61d2df1",
+                "severity": 95,
+                "timestamp": "2018-08-11T11:57:17Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "97b77d29d43698c6b1b3ce9d698343e2",
+                "sample_sha256": "edd72c6f340a847aa19ef582c90cfebac5c5b545e82e1b51a85bda2ee61d2df1",
+                "severity": 80,
+                "timestamp": "2018-08-11T11:57:17Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f9f29047c446a41901360be24d3b1649",
+                "sample_sha256": "623979db3a53d02656bebd63189839b9604cff460567149b61ec67424f524471",
+                "severity": 95,
+                "timestamp": "2018-08-11T04:33:28Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f9f29047c446a41901360be24d3b1649",
+                "sample_sha256": "623979db3a53d02656bebd63189839b9604cff460567149b61ec67424f524471",
+                "severity": 95,
+                "timestamp": "2018-08-11T04:33:28Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f9f29047c446a41901360be24d3b1649",
+                "sample_sha256": "623979db3a53d02656bebd63189839b9604cff460567149b61ec67424f524471",
+                "severity": 80,
+                "timestamp": "2018-08-11T04:33:28Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "201c06ab2a5aa5ec76816dde639a2b2d",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:26:05Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "201c06ab2a5aa5ec76816dde639a2b2d",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:26:05Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "201c06ab2a5aa5ec76816dde639a2b2d",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 80,
+                "timestamp": "2018-08-09T23:26:05Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "ce277011a22704b949c4e957052af7b2",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:23:42Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "ce277011a22704b949c4e957052af7b2",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:23:42Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "ce277011a22704b949c4e957052af7b2",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 80,
+                "timestamp": "2018-08-09T23:23:42Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "d795db0810574cbfc4a2186fd4ba733b",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:17:47Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "d795db0810574cbfc4a2186fd4ba733b",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:17:47Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "d795db0810574cbfc4a2186fd4ba733b",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 80,
+                "timestamp": "2018-08-09T23:17:47Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "20a5f72195220aa69a173ab70a59da51",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:16:21Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "20a5f72195220aa69a173ab70a59da51",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T23:16:21Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "20a5f72195220aa69a173ab70a59da51",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 80,
+                "timestamp": "2018-08-09T23:16:21Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "648c98b3b3c6e222fc87ddbc47ea122c",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T21:33:54Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "648c98b3b3c6e222fc87ddbc47ea122c",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 95,
+                "timestamp": "2018-08-09T21:33:54Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "648c98b3b3c6e222fc87ddbc47ea122c",
+                "sample_sha256": "01dc7911e532d375e1bdc66cfe7f71589d2e931ad4032bdca60cc35157c14a35",
+                "severity": 80,
+                "timestamp": "2018-08-09T21:33:54Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "f58dcb9bc76ace21932f38095f6a43a4",
+                "sample_sha256": "d4093e33f768d01b069b8bbac6564eab41cb30ea5cb1ae8a8e86d8637568a86b",
+                "severity": 95,
+                "timestamp": "2018-08-09T14:57:58Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "f58dcb9bc76ace21932f38095f6a43a4",
+                "sample_sha256": "d4093e33f768d01b069b8bbac6564eab41cb30ea5cb1ae8a8e86d8637568a86b",
+                "severity": 95,
+                "timestamp": "2018-08-09T14:57:58Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "f58dcb9bc76ace21932f38095f6a43a4",
+                "sample_sha256": "d4093e33f768d01b069b8bbac6564eab41cb30ea5cb1ae8a8e86d8637568a86b",
+                "severity": 80,
+                "timestamp": "2018-08-09T14:57:58Z"
+            },
+            {
+                "confidence": 95,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "network-snort-malware",
+                "sample_id": "d80d238e3f5a8332b1eb50bff72b1996",
+                "sample_sha256": "9a607de5d7e7d231a6d92bbbbd627221d0f62fada3d198cb4199521cbc9b2a04",
+                "severity": 95,
+                "timestamp": "2018-08-09T04:32:01Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "d80d238e3f5a8332b1eb50bff72b1996",
+                "sample_sha256": "9a607de5d7e7d231a6d92bbbbd627221d0f62fada3d198cb4199521cbc9b2a04",
+                "severity": 95,
+                "timestamp": "2018-08-09T04:32:01Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "d80d238e3f5a8332b1eb50bff72b1996",
+                "sample_sha256": "9a607de5d7e7d231a6d92bbbbd627221d0f62fada3d198cb4199521cbc9b2a04",
+                "severity": 80,
+                "timestamp": "2018-08-09T04:32:01Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "pua-prepscram-traffic-detected",
+                "sample_id": "5cb84e5aaf5759066c43f5639d5a0508",
+                "sample_sha256": "c0b11b431b1197685da972e1adaace96ac71b95b5f03eec024980b0fd57b972b",
+                "severity": 95,
+                "timestamp": "2018-08-04T12:03:46Z"
+            },
+            {
+                "confidence": 100,
+                "domain": "lamp.troublerifle.bid",
+                "ioc": "suspicious-user-agent",
+                "sample_id": "5cb84e5aaf5759066c43f5639d5a0508",
+                "sample_sha256": "c0b11b431b1197685da972e1adaace96ac71b95b5f03eec024980b0fd57b972b",
+                "severity": 80,
+                "timestamp": "2018-08-04T12:03:46Z"
+            }
+        ],
+        "items_per_page": 1000
+    },
+    "id": 6489747
+}

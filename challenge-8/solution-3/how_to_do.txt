@@ -1,0 +1,8 @@
+
+C’est du python 3, pour le lancer :
+# Installation des dépendances
+$ pip install -r requirements.txt
+# Run
+$ python app.py
+
+Puis sur ton navigateur : http://secure-web.cisco.com/1rcRHAFs5-0lZZF69fgOfobjB34iGLQ7rVAxsyGk7SLVmUUz54ZF4m9qHketIRn1pelu0gYoueeLfJe1s009VVE4x3Hhc49CM7k1cCuFdL8L3ahle1uxbEKzxDM-d5CURfQoQkCH2nByz-JCfujYBGQSyldAUpgUIB_ZTWZk-4vSAG8pyVl57DDVV-0MpF2XNyL_3nprXPPvflLo4H-BkKS6XschV83NEp8EfAvS__3pnW5_9V213X5Tr1rjN0JG35CPWZZZjPVe_9N86Wb20mnrGY7eby6nbLFr8EXRkI_7ynGV4MBQUDJs6EaRWesZkd7Qw5pbfqq0Jdvb_CCg85g/http%3A%2F%2F127.0.0.1%3A8080

@@ -1,0 +1,2 @@
+pour lancer le serveur sur le port:
+python -m http.server 9300
