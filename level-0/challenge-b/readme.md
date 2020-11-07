@@ -15,14 +15,14 @@ But if you entered an expected words the script print out the result and take yo
 
 If you enter green then the script must display :
 
-Ok green  is GREEN  in gree color
+	**Ok green  is GREEN  **
+
+in green color please !
 
 If you enter red then the script must display :
 
-Ok red  is red  in red color
+	**Ok red  is red  in red color**
 
 If you enter cyan then the script must display :
 
-Ok cyan  is CYAN in cyan color
-
-
+	**Ok cyan  is CYAN in cyan color**
