@@ -12,3 +12,5 @@ Question 1 : How many Endpoints are infected in your organization ?
 
 Question 2 : What are the infected Endpoints hostnames ?
 
+Write a python script which gives you the answer what ever the AMP observable is.
+
