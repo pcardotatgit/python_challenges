@@ -1,0 +1,30 @@
+{
+    "asn_score": 0.0,
+    "attack": "",
+    "dga_score": -15.445486245696852,
+    "entropy": 2.75,
+    "fastflux": false,
+    "found": true,
+    "geodiversity": [
+        [
+            "SG",
+            1.0
+        ]
+    ],
+    "geodiversity_normalized": [
+        [
+            "SG",
+            1.0
+        ]
+    ],
+    "geoscore": 0.0,
+    "ks_test": 0.0,
+    "pagerank": 0.0,
+    "perplexity": 0.7061049771827557,
+    "popularity": 0.0,
+    "prefix_score": 0.0,
+    "rip_score": 0.0,
+    "securerank2": 0.0,
+    "threat_type": "",
+    "tld_geodiversity": []
+}

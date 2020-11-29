@@ -1,0 +1,9 @@
+{
+    "connect.facebook.net": {
+        "content_categories": [
+            "24"
+        ],
+        "security_categories": [],
+        "status": 1
+    }
+}

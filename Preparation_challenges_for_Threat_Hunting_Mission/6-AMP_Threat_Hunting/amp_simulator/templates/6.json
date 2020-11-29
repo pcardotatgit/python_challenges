@@ -1,0 +1,10 @@
+{
+    "cdn.optimizely.com": {
+        "content_categories": [
+            "25",
+            "32"
+        ],
+        "security_categories": [],
+        "status": 1
+    }
+}
