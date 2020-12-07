@@ -1,10 +1,10 @@
-# simulator for the AMP Threat Hunting Challenge
+# Simulator for the AMP Threat Hunting Mission
 
 Use this simulator if you don't have an AMP for Endpoint account.
 
 It will send you back the correct requested information if you call the correct API URL endpoint with the correct parameters.
 
-## installation
+## Installation
 
 Copy the content of this folder into a folder into your laptop
 
