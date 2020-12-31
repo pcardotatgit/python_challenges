@@ -1,10 +1,12 @@
 # Challenge
 
-We assume that you have an AMP for endpoint account.   Connect to it and Activate Your Demo Data.
-
-And then Create a client API
-
 This challenge is an AMP Threat Hunting challenge.
+
+We assume that you have an AMP for endpoint account.   
+
+**Connect to it and Activate Your Demo Data.**
+
+** And then Create a New client API **
 
 Here is an observable : **01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9** 
 
@@ -23,11 +25,6 @@ Go to :
 https://api-docs.amp.cisco.com/
 
 And figure out what is the AMP API URL endpoint which can help you to get the answer.
-
-## Solution
-
-- First open the **environment_api_keys.py** script and assign the correct **AMP_API_KEY** and **AMP_CLIENT_ID**
-- Second run the **student_code.py** file and follow the instructions
 
 # AMP simulator Backend
 
@@ -81,14 +78,16 @@ The correct result is :
 
 	{'Simulator State': ['OK']}
 
-### You are ready to go to the challenge
+# You are ready to go to the challenge
+
+A solution python script template is available for you.
 
 Go to the **solution** folder.
 
 - First open the **environment_api_keys.py** script and assign the correct **AMP_API_KEY** and **AMP_CLIENT_ID**
 - Second run the **student_code.py** file and follow the instructions
 
-### API keys for the AMP Backend Simulator
+## API keys for the AMP Backend Simulator
 
 The **AMP_API_KEY** and **AMP_CLIENT_ID** needed for the AMP simulator are already in the **environment_api_keys.py** file.  You just have to uncomment them
 
