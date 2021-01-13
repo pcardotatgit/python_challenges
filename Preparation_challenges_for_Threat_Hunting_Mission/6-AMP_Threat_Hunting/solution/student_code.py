@@ -21,7 +21,7 @@ import environment_api_keys as env
 client_id=env.AMP_CLIENT_ID
 api_key=env.AMP_API_KEY
 
-debug=0
+debug=1
 
 # Disable insecure request warnings
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -32,8 +32,17 @@ def get_hostname_from_sha(query_params="",
 ):
     """Get a list of recent events from Cisco AMP."""
     print("\n==> Getting events from AMP")
-    
-    url = f"https://{client_id}:{api_key}@{host}/v1/events"
+    i_got_it=0
+    if i_got_it==0:
+        print(cyan(env.get_line(),bold=True))
+        print (yellow("Second : Call the correct AMP API with the correct syntax...The API call which gives you the list of all infected endpoints "))
+        print()
+        print (yellow("Hint :"))
+        print (yellow("https://api-docs.amp.cisco.com/api_actions/details?api_action=GET+%2Fv1%2Fevents&api_host=api.eu.amp.cisco.com&api_resource=Event&api_version=v1"))
+        print()
+        print (yellow("Change the value of i_got_it to 1 in order to move forward"))
+        sys.exit()    
+    #url = f"https://{client_id}:{api_key}@{host}/v1/events"
     response = requests.get(url, params=query_params, verify=False)
     if debug:
         print(cyan(env.get_line(),bold=True))
@@ -110,27 +119,19 @@ def write_events_to_file(filepath, ampevents):
 if __name__ == "__main__":
     # Get the list of computers from AMP
     print (yellow("TODO :"))
-    i_got_it=1
-    if i_got_it==0:       
+    i_got_it=0
+    if i_got_it==0: 
+        print(cyan(env.get_line(),bold=True))
         print (yellow("First : assign the correct value to the variable : sha "))
         print (yellow("Change the value of i_got_it to 1 in order to move forward"))
         sys.exit()
         
-    sha="MISSION : SET THE CORRECT VALUE HERE"
+    sha="01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
     amp_query_params = f"detection_sha256={sha}" 
-    
-    i_got_it=1
-    if i_got_it==0:
-        print (yellow("Second : Call the correct AMP API with the correct syntax...The API call which gives you the list of all infected endpoints "))
-        print()
-        print (yellow("Hint :"))
-        print (yellow("https://api-docs.amp.cisco.com/api_actions/details?api_action=GET+%2Fv1%2Fevents&api_host=api.eu.amp.cisco.com&api_resource=Event&api_version=v1"))
-        print()
-        print (yellow("Change the value of i_got_it to 1 in order to move forward"))
-        sys.exit()
         
-    i_got_it=1
+    i_got_it=0
     if i_got_it==0:
+        print(cyan(env.get_line(),bold=True))
         print (yellow("Third : Call the correct function with the correct query params "))
         print (yellow("Hint : ")) 
         print (yellow("https://www.base64decode.org/"))  
@@ -138,7 +139,7 @@ if __name__ == "__main__":
         print (yellow("aG9zdG5hbWVfbGlzdD1nZXRfaG9zdG5hbWVfZnJvbV9zaGEocXVlcnlfcGFyYW1zPWFtcF9xdWVyeV9wYXJhbXMp"))        
         print (yellow("Change the value of i_got_it to 1 in order to move forward"))
         sys.exit()   
-    hostname_list=get_hostname_from_sha(query_params=amp_query_params)    
+    hostname_list="MISSION CALL THE CORRECT FUNCTION"   
     result=''
     for item in hostname_list:
         if item['computer']['hostname'] not in result:
