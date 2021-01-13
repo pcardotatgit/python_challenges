@@ -126,7 +126,7 @@ if __name__ == "__main__":
         print (yellow("Change the value of i_got_it to 1 in order to move forward"))
         sys.exit()
         
-    sha="01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+    sha="MISSION - PASTE HERE THE SHA256"
     amp_query_params = f"detection_sha256={sha}" 
         
     i_got_it=0
