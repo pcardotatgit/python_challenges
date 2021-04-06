@@ -36,7 +36,7 @@ import environment as env
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
     
 # Functions
-def get_amp_computers(
+def test(
     host=env.AMP.get("host"),
     client_id=env.AMP_CLIENT_ID,
     api_key=env.AMP_API_KEY
@@ -44,16 +44,15 @@ def get_amp_computers(
     """Get a list of computers from Cisco AMP."""
     print("\n==> Computers from AMP")
     # Construct the URL
-    url = f"https://{client_id}:{api_key}@{host}/v1/computers"
+    url = f"https://{client_id}:{api_key}@{host}/test"
     response = requests.get(url, verify=False)
-    response.raise_for_status()
-    computers_list = response.json()["data"]   
-    return computers_list
+    response.raise_for_status() 
+    return response.content
 
 # If this script is the "main" script, run...
 if __name__ == "__main__": 
-    computers=get_amp_computers()  
-    print(cyan(computers))
+    test=test()  
+    print(cyan(test))
     print(green("======================="))
       
  

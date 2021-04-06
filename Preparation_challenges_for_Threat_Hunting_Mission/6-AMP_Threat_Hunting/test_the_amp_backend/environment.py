@@ -31,7 +31,7 @@ import json
 # Constants
 
 #AMP = {"host": "api.eu.amp.cisco.com"}
-AMP = {"host": "060508166367.ngrok.io"}
+AMP = {"host": "localhost:4000"}
 
 # Cisco AMP
 AMP_API_KEY = "12345678-4f95-43d5-908d-7a7d41ad385z"

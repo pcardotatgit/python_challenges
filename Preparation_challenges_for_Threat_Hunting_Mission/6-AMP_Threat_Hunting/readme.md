@@ -32,7 +32,9 @@ If you don't have an AMP demo Account, you can use the AMP backend simulator loc
 
 ## AMP backend Simulator Installation
 
-Change directory to the directory where is locatef the AMP backend Simulator **.../amp_simulator**.
+Change directory to the directory where is located the AMP backend Simulator **./amp_simulator**.
+
+	cd c:.../your_working_directory/6-AMP_Threat_Hunting/amp_simulator
 
 ### Install and start a Python virtual environment
 
@@ -70,13 +72,20 @@ You should see the server start. It listen on https 4000.
 	 * Debugger PIN: 162-768-494
 	 * Running on https://0.0.0.0:4000/ (Press CTRL+C to quit)
 
+On your windows laptop, allow the amp simulator to listen on port 4000 when the Firewall authorization windows will popup.
+
 ### Test the AMP Backend Simulator
 
-Go to the **test_the_amp_backend** folder and run the **test_amp_backend.py** script.
+Open a new CMD Terminal
 
-The correct result is :
+Go to the **c:.../your_working_directory/6-AMP_Threat_Hunting/test_the_amp_backend** folder and run the **test_amp_backend.py** script.
 
-	{'Simulator State': ['OK']}
+You are supposed to recieve the following success message :
+
+	==> Computers from AMP
+	b'All is Good !'
+
+If not, check on the simulator console if you receive connection attempts
 
 # You are ready to go to the challenge
 

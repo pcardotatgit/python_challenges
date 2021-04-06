@@ -15,7 +15,12 @@ def index():
 
 @app.route('/test')
 def test():
-    return "Sounds Good !"
+    headers = request.headers
+    token = headers['Authorization']
+    if token==AMP_AUTHORIZATION:
+        return "All is Good !"
+    else:
+        return "Simulator received your REST Call but AMP Authentication failed"
     
 @app.route("/v1/events", methods=['GET'])
 def AMP1():
