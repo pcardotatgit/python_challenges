@@ -80,7 +80,7 @@ Open a new CMD Terminal
 
 Go to the **c:.../your_working_directory/6-AMP_Threat_Hunting/test_the_amp_backend** folder and run the **test_amp_backend.py** script.
 
-You are supposed to recieve the following success message :
+You are supposed to receive the following success message :
 
 	==> Computers from AMP
 	b'All is Good !'
@@ -94,7 +94,24 @@ A solution python script template is available for you.
 Go to the **solution** folder.
 
 - First open the **environment_api_keys.py** script and assign the correct **AMP_API_KEY** and **AMP_CLIENT_ID**
-- Second run the **student_code.py** file and follow the instructions
+- Second run the **student_code.py** file and follow the instructions.
+
+The principle of this challenge is to troubleshoot the **student_code.py** script.  You can just run it and it will automatically break every time you have a troubleshooting action to perform.
+
+example :
+
+	TODO :
+	124
+	First : assign the correct value to the variable : sha
+	Change the value of i_got_it to 1 in order to move forward
+
+**124** is the line number in the code where the script broke.  Go to this line and troubleshoot the code. 
+
+Set the **i_got_it** variable to 1 **( i_got_it=1 )**.
+
+And then run it again until the next break.
+
+Troubleshooting every volountary bugs until you get the answers to the questions.
 
 ## API keys for the AMP Backend Simulator
 
