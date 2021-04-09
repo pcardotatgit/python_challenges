@@ -138,6 +138,8 @@ if __name__ == "__main__":
         print (yellow("Here under the solution :"))
         print (yellow("aG9zdG5hbWVfbGlzdD1nZXRfaG9zdG5hbWVfZnJvbV9zaGEocXVlcnlfcGFyYW1zPWFtcF9xdWVyeV9wYXJhbXMp"))        
         print (yellow("Change the value of i_got_it to 1 in order to move forward"))
+        print (yellow("You can try as well this :")
+        print (yellow("import base64 then m='aG9zdG5hbWVfbGlzdD1nZXRfaG9zdG5hbWVfZnJvbV9zaGEocXVlcnlfcGFyYW1zPWFtcF9xdWVyeV9wYXJhbXMp' then func = base64.b64decode(m).decode('utf-8') then print(func)")
         sys.exit()   
     hostname_list="MISSION CALL THE CORRECT FUNCTION"   
     result=''
