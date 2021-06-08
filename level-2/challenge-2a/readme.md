@@ -25,3 +25,4 @@ The selected displayed lines will be lines with IDs : 2878, 3685 and 4633.
 
 In column[0] display the title and in column[1] display the image corresponding to the URL ( an hot link )
 
+Allocated Time : 4 hours if you are beginners.   60 minutes for those of you who already know how to do that

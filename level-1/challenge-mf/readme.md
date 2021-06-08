@@ -1,4 +1,4 @@
-# Paris Temperature Challenge
+# Paris Real Time Temperature Challenge
 
 Here is an API that gives you back information about the Temperature trend in Paris
 
@@ -12,3 +12,4 @@ Your challenge is to write an python script that prints out :
 
 Have a look to the solution. This one doesn't work,  you have to troubleshoot it.
 
+Allocated Time : 20 minutes

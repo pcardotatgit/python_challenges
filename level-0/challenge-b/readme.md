@@ -26,3 +26,6 @@ If you enter red then the script must display :
 If you enter cyan then the script must display :
 
 	**Ok cyan  is CYAN in cyan color**
+	
+Allocated Time : Less than 25 minutes
+

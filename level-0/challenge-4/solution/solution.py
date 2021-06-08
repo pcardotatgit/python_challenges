@@ -3,9 +3,9 @@ import requests
 import re
 import json
 
-r = requests.get("http://mirror1.malwaredomains.com/files/domains.txt")
+r = requests.get("http://www.jamessawyer[.]co[.]uk/MASTER[.]txt")
 selection = re.findall('.*\.info\s', r.text)
-print("le status code est "+str(r.status_code))
+print("status code is "+str(r.status_code))
 print(r)
 
 i=0
@@ -14,7 +14,7 @@ for s in selection:
     data.get("web").append(s.strip())
     i+=1
 
-data["nombre_resultat"]=i
+data"nombre_resultat"]=i
 json_data = json.dumps(data, indent=4)
 print(json_data)
 

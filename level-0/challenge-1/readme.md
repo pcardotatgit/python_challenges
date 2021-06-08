@@ -6,5 +6,7 @@ Use requests library in order to retrieve the content of the url here under and 
 
 And just display this raw result on the screen.
 
+Allocated Time : less than 5 mins
+
 # TIPS
 

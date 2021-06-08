@@ -10,3 +10,4 @@ word 2 = *ORANGE*
 word 3 = *STRAWBERRY*
 ```
 
+Allocated Time : 15 minutes

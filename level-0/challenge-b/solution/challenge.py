@@ -2,7 +2,7 @@ from crayons import blue, green, white, red, yellow,magenta, cyan
 
 WordList = ['green','red','cyan']
 
-go=1
+#go=1
 
 while go:
     word=input('Enter green or red or cyan : ')      

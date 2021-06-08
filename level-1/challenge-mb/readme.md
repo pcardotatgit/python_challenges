@@ -11,3 +11,4 @@ Create a script named challenge-5.py which must return the title  of the item fo
 Ex : 
     python challenge-5.py 3456
 
+Allocated Time : 30 minutes

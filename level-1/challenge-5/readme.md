@@ -9,3 +9,5 @@ Create a python file which retrieves the list here :
 Your challenge is to create 2 separate output CSV files, one for UDP port numbers ( udp.txt ) and one for TCP port numbers ( TCP.txt )
 
 Keep only service names and port numbers 
+
+Allocated Time : 30 minutes

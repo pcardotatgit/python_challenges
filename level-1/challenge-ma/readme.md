@@ -28,3 +28,4 @@ Test your JSON variable into a python script which displays it on your screen
 
 Instead of writing this file manually, write a python script which creates this JSON variable thanks to lists an dictionaries
 
+Allocated Time : 60 mintes
