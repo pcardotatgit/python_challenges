@@ -1,6 +1,6 @@
 # Challenge
 
-Have a look to the follwoing API :
+Have a look to the following API :
 
 	http://restcountries.eu/rest/v2/all?fields=name;population;region;capital;flag;borders;alpha3Code
 	
