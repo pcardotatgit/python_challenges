@@ -1,0 +1,558 @@
+{
+  "version": "v1.2.0",
+  "metadata": {
+    "links": {
+      "self": "https://api.eu.amp.cisco.com/v1/events?detection_sha256=01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+    },
+    "results": {
+      "total": 13,
+      "current_item_count": 13,
+      "index": 0,
+      "items_per_page": 500
+    }
+  },
+  "data": [
+    {
+      "id": 6156292803669262357,
+      "timestamp": 1604070072,
+      "timestamp_nanoseconds": 27000000,
+      "date": "2020-10-30T15:01:12+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.File.MalParent",
+      "detection_id": "6156292803669262358",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a6",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Matt_Bright",
+        "external_ip": "76.173.77.244",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292803669262356,
+      "timestamp": 1604070072,
+      "timestamp_nanoseconds": 13000000,
+      "date": "2020-10-30T15:01:12+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.File.MalParent",
+      "detection_id": "6156292803669262357",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a4",
+        "hostname": "Lobby_laptop",
+        "external_ip": "76.173.77.245",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292803669262360,
+      "timestamp": 1604070072,
+      "timestamp_nanoseconds": 682000000,
+      "date": "2020-10-30T15:01:12+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292803669262360",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a8",
+        "hostname": "Bart_laptop",
+        "external_ip": "76.173.77.251",
+        "user": "",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        },
+        "parent": {
+          "process_id": 3052,
+          "disposition": "Malicious",
+          "file_name": "monkeys.swf.exe",
+          "identity": {
+            "sha256": "7fd72a36f7e0e6e0a8bc777fc9ed41e0a6d5526c98bc95a09e189531cf7e70d5",
+            "sha1": "75aeaee253b5c8ae701195e3b0f49308f3d1d932",
+            "md5": "95b3ec0a4e539efaa1faa3d4e25d51de"
+          }
+        }
+      }
+    },
+    {
+      "id": 6156292799374295053,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 776000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295053",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a1",
+        "hostname": "finance_A4",
+        "external_ip": "76.173.77.240",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295054,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 863000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295054",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295055,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 917000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295055",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295058,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 942000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:KCX.18fv.1201",
+      "detection_id": "6156292799374295058",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295050,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 757000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295050",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295051,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 762000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295051",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295056,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 931000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:Cozer.18fv.1201",
+      "detection_id": "6156292799374295056",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "John_Doe",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295057,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 937000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.0DC7438BE5-100.SBX.VIOC",
+      "detection_id": "6156292799374295057",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295052,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 767000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295052",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        }
+      }
+    },
+    {
+      "id": 6156292799374295049,
+      "timestamp": 1604070071,
+      "timestamp_nanoseconds": 711000000,
+      "date": "2020-10-30T15:01:11+00:00",
+      "event_type": "Threat Detected",
+      "event_type_id": 1090519054,
+      "detection": "W32.Generic:CozyDukeB.18fx.1201",
+      "detection_id": "6156292799374295049",
+      "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+      "group_guids": [
+        "84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+      ],
+      "severity": "Medium",
+      "computer": {
+        "connector_guid": "f3bd12c3-4764-4760-a8aa-24645cca91a2",
+        "hostname": "Demo_CozyDuke",
+        "external_ip": "76.173.77.241",
+        "user": "",
+        "active": true,
+        "network_addresses": [
+          {
+            "ip": "0.227.10.59",
+            "mac": "d2:dc:72:de:57:b2"
+          }
+        ],
+        "links": {
+          "computer": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2",
+          "trajectory": "https://api.eu.amp.cisco.com/v1/computers/f3bd12c3-4764-4760-a8aa-24645cca91a2/trajectory",
+          "group": "https://api.eu.amp.cisco.com/v1/groups/84758dcb-bc61-4e7c-a781-2b30e14f6f08"
+        }
+      },
+      "file": {
+        "disposition": "Malicious",
+        "file_name": "player.exe",
+        "file_path": "\\\\?\\C:\\Users\\Administrator\\AppData\\Local\\Temp\\player.exe",
+        "identity": {
+          "sha256": "01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9"
+        },
+        "parent": {
+          "process_id": 3052,
+          "disposition": "Malicious",
+          "file_name": "monkeys.swf.exe",
+          "identity": {
+            "sha256": "7fd72a36f7e0e6e0a8bc777fc9ed41e0a6d5526c98bc95a09e189531cf7e70d5",
+            "sha1": "75aeaee253b5c8ae701195e3b0f49308f3d1d932",
+            "md5": "95b3ec0a4e539efaa1faa3d4e25d51de"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -22,7 +22,7 @@ def test():
     else:
         return "Simulator received your REST Call but AMP Authentication failed"
     
-@app.route("/v1/events", methods=['GET'])
+@app.route("/v1/events", methods=['GET','POST'])
 def AMP1():
     """Get a list of recent events from Cisco AMP."""
     sha256=request.args['detection_sha256']
@@ -34,10 +34,25 @@ def AMP1():
     if token==AMP_AUTHORIZATION and sha256=='01468b1d3e089985a4ed255b6594d24863cfd94a647329c631e4f4e52759f8a9':
         print(green('AMP Authorization correct :'+token,bold=True))
         print(green('SHA256 correct :'+sha256,bold=True))
-        return render_template('32.json')       
+        return render_template('33.json')       
     else: 
         print(red('WRONG AMP Auth or SHA256 ! :'+token,bold=True))
         return '{"ERROR": {"error cause":"invalid Authentication Basic Token :'+token+' "}}'     
+        
+@app.route("/v1/get_json", methods=['GET','POST'])
+def get_json():
+    print()
+    print(cyan('AMP GET All Events for a specific Computer',bold=True))        
+    print()
+    return render_template('33.json')    
+
+@app.route("/v1/get_csv", methods=['GET','POST'])
+def get_csv():
+    print()
+    print(cyan('AMP GET CSV',bold=True))        
+    print()
+    return render_template('addresses.csv')     
+       
 
 @app.errorhandler(404)
 def not_found(error):
@@ -47,3 +62,4 @@ def not_found(error):
 if __name__ == "__main__":
     app.secret_key = os.urandom(12)
     app.run(debug=True,host='0.0.0.0',port=4000,ssl_context='adhoc')
+    #app.run(debug=True,host='0.0.0.0',port=4000)
