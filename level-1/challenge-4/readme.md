@@ -13,13 +13,21 @@ And which contains another key named **nb_of_domains** that contains the number 
 exemple :
 
 {
+
     "domains": [
+
         "0010101.linkn1.repl.co",
+
         ....
+
         ....
+
         ....
+
     ],
+
     "nb_of_domains": 611
+    
 }
 
 
