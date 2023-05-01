@@ -1,8 +1,8 @@
-# Challenge
+# Challenge ( BROKEN )
 
 Create a python script which Retrieves the list here :
 
-http://www.jamessawyer[.]co[.]uk/MASTER[.]txt
+http://xxxxxxx
 
 Keep only domain names which ends with : .info 
 

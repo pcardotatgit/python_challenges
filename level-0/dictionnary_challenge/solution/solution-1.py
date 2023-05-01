@@ -1,3 +1,5 @@
+from crayons import *
+
 dict_data=[
   {
     "albumId": 1,
@@ -35,10 +37,10 @@ dict_data=[
     "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
   }
 ]
-
+print()
 for item in dict_data:
 	if 'thumbnailUrl' in item.keys():
-		print(item['title'],item['thumbnailUrl'])
+		print(yellow(item['title'],bold=True),green(item['thumbnailUrl'],bold=True))
 	elif 'something' in item.keys():
 		print(item['title'],item['something'])
 	else:
