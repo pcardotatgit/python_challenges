@@ -3,18 +3,20 @@ import requests
 import re
 import json
 
-r = requests.get("http://www.jamessawyer[.]co[.]uk/MASTER[.]txt")
-selection = re.findall('.*\.info\s', r.text)
+url="https://raw[.]githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt"
+
+r = requests.get(url)
+selection = re.findall('.*\.co\s', r.text)
 print("status code is "+str(r.status_code))
 print(r)
 
 i=0
-data={"web":[]}
+data={"domains":[]}
 for s in selection:
-    data.get("web").append(s.strip())
+    data.get("domains").append(s.strip())
     i+=1
 
-data"nombre_resultat"]=i
+data["nb_of_domains"]=i
 json_data = json.dumps(data, indent=4)
 print(json_data)
 
